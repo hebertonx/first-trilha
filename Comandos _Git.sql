@@ -12,3 +12,5 @@
 - git checkout master
 - git branch -d funcionalidade_x   (remover)
 - git push origin <funcionalidade_x> (enviar para o repositorio)
+
+-- Alteração Realizada a partir da segunda feature 
